@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.obscuravm.com/scripts/8701544957594772923"))()
+loadstring(game:HttpGet("https://api.aegisloader.com/loader/FWZ3hs0Mjp"))()
